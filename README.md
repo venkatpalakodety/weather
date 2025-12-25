@@ -34,4 +34,4 @@ APIs used
 - Geocoding: `https://geocoding-api.open-meteo.com`
 - Current weather: `https://api.open-meteo.com`
 
-<img width="721" height="976" alt="Screenshot 2025-12-25 at 12 42 29 PM" src="https://github.com/user-attachments/assets/bd12142d-097e-41ec-b4cd-f96ae9d188d8" />
+<img width="636" height="658" alt="Screenshot 2025-12-25 at 1 07 40 PM" src="https://github.com/user-attachments/assets/f55d23c5-884d-435a-b15d-2bc32547c01c" />
